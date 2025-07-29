@@ -3,9 +3,6 @@
   <component name="ProjectModuleManager">
     <modules>
       <module fileurl="file://$PROJECT_DIR$/.idea/modules/ussd_advanced.iml" filepath="$PROJECT_DIR$/.idea/modules/ussd_advanced.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ussd_advanced.androidTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ussd_advanced.androidTest.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ussd_advanced.main.iml" filepath="$PROJECT_DIR$/.idea/modules/ussd_advanced.main.iml" />
-      <module fileurl="file://$PROJECT_DIR$/.idea/modules/ussd_advanced.unitTest.iml" filepath="$PROJECT_DIR$/.idea/modules/ussd_advanced.unitTest.iml" />
     </modules>
   </component>
 </project>
